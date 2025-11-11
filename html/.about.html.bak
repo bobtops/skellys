@@ -25,7 +25,6 @@
         <header>
           <h3>Location</h3>
         </header>
-        <p>
         <figure>
           <iframe
             src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=1550 E Duval St, Lake City, FL 32055&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
@@ -39,8 +38,8 @@
           </iframe>
           <figcaption>BobsTops Location</figcaption>
         </figure>
-        </p>
       </article>
     </section>
   </main>
 </body>
+<!-- </html> -->
