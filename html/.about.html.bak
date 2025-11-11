@@ -4,5 +4,46 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>About - BobsTops</title>
-  <meta name="description" content="Bob's Tops "
+  <meta name="description" content="Bob's Tops &amp; Upholstery">
 </head>
+<body>
+  <main>
+    <section aria-labelledby="about-title">
+      <h2 id="about-title">About</h2>
+
+      <article>
+        <header>
+          <h3>BobsTops</h3>
+        </header>
+          <p>
+
+          </p>
+          <figure>
+            <img src="images/about-image.jpg" alt="BobsTops Award Winning Upholstery since 1965">
+            <figcaption>BobsTops Award Winning Upholstery</figcaption>
+          </figure>
+      </article>
+
+      <article>
+        <header>
+          <h3>Location</h3>
+        </header>
+        <p>
+        <figure>
+          <iframe
+            src=""
+            width="480"
+            height="320"
+            style="border:0;"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="non-referrer-when-downgrade"
+            title="Map to BobsTops">
+          </iframe>
+          <figcaption>BobsTops Location</figcaption>
+        </figure>
+        </p>
+      </article>
+    </section>
+  </main>
+</body>
