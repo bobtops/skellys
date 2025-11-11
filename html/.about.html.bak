@@ -14,9 +14,7 @@
         <header>
           <h3>BobsTops</h3>
         </header>
-          <p>
-
-          </p>
+          <p>Come visit us in person:</p>
           <figure>
             <img src="images/about-image.jpg" alt="BobsTops Award Winning Upholstery since 1965">
             <figcaption>BobsTops Award Winning Upholstery</figcaption>
@@ -30,7 +28,7 @@
         <p>
         <figure>
           <iframe
-            src=""
+            src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=1550 E Duval St, Lake City, FL 32055&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
             width="480"
             height="320"
             style="border:0;"
